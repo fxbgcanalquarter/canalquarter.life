@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fredericksburg Canal Quarter",
+    "description": "",
+    "home_page_url": "https://fxbgcanalquarter.github.io/canalquarter.life",
+    "feed_url": "https://fxbgcanalquarter.github.io/canalquarter.life/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Seth Casana"
+    },
+    "items": [
+        {
+            "id": "https://fxbgcanalquarter.github.io/canalquarter.life/first-post.html",
+            "url": "https://fxbgcanalquarter.github.io/canalquarter.life/first-post.html",
+            "title": "First post",
+            "summary": "Testing out Publii.",
+            "content_html": "Testing out Publii.",
+            "image": "https://fxbgcanalquarter.github.io/canalquarter.life/media/posts/1/seth.jpg",
+            "author": {
+                "name": "Seth Casana"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-03T21:56:37-05:00",
+            "date_modified": "2019-03-03T21:56:37-05:00"
+        }
+    ]
+}

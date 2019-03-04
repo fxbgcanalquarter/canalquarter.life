@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Fredericksburg Canal Quarter</title>
+    <link href="https://fxbgcanalquarter.github.io/canalquarter.life/feed.xml" rel="self" />
+    <link href="https://fxbgcanalquarter.github.io/canalquarter.life" />
+    <updated>2019-03-03T23:04:36-05:00</updated>
+    <author>
+        <name>Seth Casana</name>
+    </author>
+    <id>https://fxbgcanalquarter.github.io/canalquarter.life</id>
+
+    <entry>
+        <title>First post</title>
+        <author>
+            <name>Seth Casana</name>
+        </author>
+        <link href="https://fxbgcanalquarter.github.io/canalquarter.life/first-post.html"/>
+        <id>https://fxbgcanalquarter.github.io/canalquarter.life/first-post.html</id>
+
+        <updated>2019-03-03T21:56:37-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fxbgcanalquarter.github.io/canalquarter.life/media/posts/1/seth.jpg" alt="Seth Casana" />
+                    Testing out Publii.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://fxbgcanalquarter.github.io/canalquarter.life/media/posts/1/seth.jpg" alt="Seth Casana" />
+                Testing out Publii.
+            ]]>
+        </content>
+    </entry>
+</feed>
