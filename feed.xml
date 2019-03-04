@@ -3,12 +3,34 @@
     <title>Fredericksburg Canal Quarter</title>
     <link href="https://fxbgcanalquarter.github.io/canalquarter.life/feed.xml" rel="self" />
     <link href="https://fxbgcanalquarter.github.io/canalquarter.life" />
-    <updated>2019-03-03T23:07:00-05:00</updated>
+    <updated>2019-03-03T23:16:13-05:00</updated>
     <author>
         <name>Seth Casana</name>
     </author>
     <id>https://fxbgcanalquarter.github.io/canalquarter.life</id>
 
+    <entry>
+        <title>Second post</title>
+        <author>
+            <name>Seth Casana</name>
+        </author>
+        <link href="https://fxbgcanalquarter.github.io/canalquarter.life/second-post.html"/>
+        <id>https://fxbgcanalquarter.github.io/canalquarter.life/second-post.html</id>
+
+        <updated>2019-03-03T23:15:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fxbgcanalquarter.github.io/canalquarter.life/media/posts/2/table-chairs.jpg" alt="" />
+                    Another one!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://fxbgcanalquarter.github.io/canalquarter.life/media/posts/2/table-chairs.jpg" alt="" />
+                Another one!
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>First post</title>
         <author>
